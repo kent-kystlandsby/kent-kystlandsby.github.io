@@ -1,0 +1,131 @@
+/* 背景画像＋ダークフィルター */
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background: #ffffff;
+  background-size: cover;
+  z-index: -2;
+}
+
+body::after {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(255, 246, 231, 0.8); /* ダークフィルター */
+  z-index: -1;
+}
+
+/* 全体の基本設定 */
+body {
+  margin: 0;
+  font-family: "Avenir";
+  color: #9DB38F;
+  height: 100vh;
+  display: flex;
+  align-items: center;     /* 縦中央揃え */
+  justify-content: center; /* 横中央揃え */
+  text-align: left;
+}
+
+/* タイトルのスタイル */
+.header h1 {
+  font-size: 4rem; /* 大きめサイズ */
+  color: #9DB38F;
+  font-family: "Avenir";
+  font-weight: 300;
+  margin: 0;
+  letter-spacing: 0.1em; /* 文字間を広めに */
+}
+
+/* プロフタイトルのスタイル */
+.header h2 {
+  font-size: 2rem; /* 大きめサイズ */
+  color: #9DB38F;
+  font-family: "Avenir";
+  font-weight: 300;
+  margin: 0;
+  letter-spacing: 0.1em; /* 文字間を広めに */
+}
+
+
+/* ナビバー（もし使うなら） */
+.navbar {
+  background-color: rgba(255, 255, 255, 1);
+  border: none;
+}
+
+.navbar .nav-link, .navbar-brand {
+  color: #9DB38F !important;
+  font-weight: 300;
+  letter-spacing: 0.05em;
+  font-family: "Avenir"
+}
+
+.navbar .nav-link:hover {
+  color: #cccccc !important;
+}
+
+/* ロゴ画像のサイズを調整 */
+.navbar .navbar-brand img {
+  max-height: 80px !important;  /* 高さを80pxに固定 */
+  height: auto !important;       /* 縦横比を維持 */
+  width: auto !important;        /* 横幅は自動 */
+}
+
+.navbar-brand {
+  margin-right: 4rem !important;  /* ロゴとリンクの間を3rem広げる */
+}
+
+/* ナビバー全体の高さを調整 */
+.navbar {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+/* グリッド全体 */
+.article-grid {
+display: grid;
+grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* レスポンシブ */
+gap: 0.5rem;
+padding: 0.5rem;
+}
+
+/* 各記事カード */
+.article-card {
+background: rgba(255, 255, 255, 0.9); /* 白背景透過 */
+border-radius: 8px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+transition: transform 0.3s ease;
+text-align: left;
+color: #9DB38F;
+}
+
+/* 画像調整 */
+.article-card img {
+width: 100%;
+height: auto;
+display: block;
+object-fit: cover;
+border-bottom: 1px solid #9DB38F;
+}
+
+/* タイトルリンク */
+.article-card a {
+font-family: "Avenir";
+font-weight: 600;
+font-size: 1.2rem;
+color: #9DB38F;
+text-decoration: none;
+}
+
+.article-card a:hover {
+text-decoration: underline;
+}
