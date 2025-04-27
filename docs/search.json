@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Kento Isomura",
+    "section": "",
+    "text": "Kento Isomura\n\nA student majoring in Economics at Kyoto University, Japan"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "profile.html",
+    "href": "profile.html",
+    "title": "",
+    "section": "",
+    "text": "##Kento Isomura\n\nMy name is Kento Isomura, and I am an undergraduate student at Kyoto University, majoring in economics. My primary research interests lie in urban economics, spatial analysis, and the economics of crime, with a particular focus on the relationship between urban environments and social outcomes. In addition to my academic pursuits, I have a strong interest in architecture and urban design, and I enjoy exploring modern cities and their cultural landscapes. I am always open to engaging in thoughtful discussions and collaborations related to urban studies and economics."
+  },
+  {
+    "objectID": "articles.html",
+    "href": "articles.html",
+    "title": "Posts",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n経済学とは2\n\n\n\nbasic economics\n\nurban economics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n人口データの特集\n\n\n\ndata\n\nempirical studies\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n経済学とは\n\n\n\nbasic economics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "article1.html",
+    "href": "article1.html",
+    "title": "経済学とは",
+    "section": "",
+    "text": "A description of the image\n\n\n本文がここに続きます。\nここで記事の内容を詳しく書きます。"
+  },
+  {
+    "objectID": "articles/article1.html",
+    "href": "articles/article1.html",
+    "title": "経済学とは",
+    "section": "",
+    "text": "Kyoto sunset\n\n\n本文がここに続きます。\nここで記事の内容を詳しく書きます。"
+  },
+  {
+    "objectID": "articles/article2.html",
+    "href": "articles/article2.html",
+    "title": "経済学とは2",
+    "section": "",
+    "text": "Kyoto sunset\n\n\n本文がここに続きます。\nここで記事の内容を詳しく書きます。"
+  },
+  {
+    "objectID": "articles/article3.html",
+    "href": "articles/article3.html",
+    "title": "人口データの特集",
+    "section": "",
+    "text": "Kyoto sunset\n\n\n本文がここに続きます。\nここで記事の内容を詳しく書きます。"
+  }
+]
