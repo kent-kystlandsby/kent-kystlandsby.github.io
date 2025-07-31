@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "articlehome.html",
+    "href": "articlehome.html",
+    "title": "記事とノート",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n2025年度前期：共有マテリアル一覧\n\n\n\nData\n\n活動記録\n\nノート\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "articles/article.1/article.1.html",
+    "href": "articles/article.1/article.1.html",
+    "title": "2025年度前期：共有マテリアル一覧",
+    "section": "",
+    "text": "(1)\n2025年度前期のゼミ期間中に発表やゼミDiscordで共有されたデータソース・ウェブサイト・論文を以下に記録します。"
+  },
+  {
+    "objectID": "articles/article.1/article.1.html#データ",
+    "href": "articles/article.1/article.1.html#データ",
+    "title": "2025年度前期：共有マテリアル一覧",
+    "section": "1. データ",
+    "text": "1. データ\n\nMicrosoft Global ML Building Footprints 世界諸地域の建物のフットプリントデータ (一部には高さ(あまり信頼できない)も)\n\n2025前期発表資料(準備中)の後半でEDA\n\nGoogle Research Open Buildings 世界諸地域の建物のフットプリントデータ\n大気汚染常時監視データ 環境省による日本の各地点での大気汚染データ\nSentinel 10m解像度の衛星(データ)シリーズ\nLandsat 1984年からの30m解像度の衛星データ\nMODIS Terra衛星-陸, Aqua衛星-水 による表面温度、被覆分類、畑作物の活力、葉面積指数、火災放火事や野焼きなどの衛星データ\nSMOS 約5cmの深さまでの地表土壌水分量のわかる衛星データ\nDynamic World V1 衛星Sentinel-2に基づく10m解像度で土地利用・被覆を分類した準リアルタイムの地球観測データ\n全国貨物純流動調査（物流センサス） 日本の県間貿易量データ\n東京都市圏交通計画協議会各種データ 東京のパーソントリップ調査や物流動量データ\n道路データプラットフォーム 国交省の道路関連データ提供プラットフォーム\n\nAkbar et al. (2023) インドの交通速度の研究\n\nCE-SAT-IIB キャノンの衛星による2021年1月～2022年5月に東京都23区を中心に撮影した分解能5.1mの夜間データ\n地域メッシュ統計の結果資料と提供方法 日本の地域メッシュ統計の利用についての案内\n\n総務省統計局が作成した地域メッシュ統計の種類と結果資料\n\n2015年版 大都市雇用圏統計データ 日本の大都市雇用圏別に集計された各種統計。 国勢調査や経済センサスなどが用いられている。\nWorldPop Data 人口を中心に、祝日やフライトネットワークなど様々なデータセットが提供されているサイト\n\nExbrayat & Stephane (2025) WorldPop Datasetを使用し都市化と犯罪の関係を扱っている研究\n\n歴史的行政区域データセットβ版 歴史的に存在した市区町村境界のデータ"
+  },
+  {
+    "objectID": "articles/article.1/article.1.html#論文",
+    "href": "articles/article.1/article.1.html#論文",
+    "title": "2025年度前期：共有マテリアル一覧",
+    "section": "2. 論文",
+    "text": "2. 論文\n\nAllen & Arkolakis (2025)  都市・空間経済学の複数のモデルについてのレビューと解説 (Handbook Chapter)\nWuepper et al. (2025)  農業経済学における衛星データの利用についてのレビュー論文\n\n2025前期発表資料(準備中)で紹介\n\nHenderson et al. (2021)  ナイロビの都心/スラムでの都市開発と制度に関して、Lidarデータなどを利用した研究\nDonaldson & Streygard (2016)  衛星データの利用についてのレビュー論文\nAbramitzky at al. (2025)  衛星・Eコマース・携帯電話・テキストなど新しいデータの利用についてのレビュー論文 (Handbook Chapter)\nGibson at al. (2021)  地域GDP予測を通したDMSP夜間光データのテストとVIIRSデータとの比較\nAhlfeldt et al. (2025)  高層ビルとその規制の関係についての世界全都市を対象とした研究\nAhlfeldt & Maennig (2025)  地域の持ち家/賃貸比率と空港移転計画への賛否についての研究"
+  },
+  {
+    "objectID": "articles/article.1/article.1.html#ウェブサイトその他",
+    "href": "articles/article.1/article.1.html#ウェブサイトその他",
+    "title": "2025年度前期：共有マテリアル一覧",
+    "section": "3. ウェブサイト・その他",
+    "text": "3. ウェブサイト・その他\n\n気楽にウェブサイトの作成・公開 このゼミのサイト作成にも使用しているQuartoのスターターガイド\n\nQuarto公式\n私たちのR 24 Quarto [基礎]\n\nestatapi 政府統計の総合窓口（e-Stat）のAPIを使うためのRパッケージ\nKeisuke Takano 研究上のtipsあれこれ GISや空間の関係する経済学についてのTipsや資料リンクがまとまっているサイト\nSatellite image time series in R 衛星データの処理に使われるRパッケージ\nprivateer (旧Orbital Insight) 衛星データを売る民間企業。タンクの屋根の影から世界中のリアルタイムのオイルの貯蔵量を推定し、ヘッジファンドなどに売っているとか…紹介記事"
+  },
+  {
+    "objectID": "activities.html#年度-前期",
+    "href": "activities.html#年度-前期",
+    "title": "活動記録",
+    "section": "2025年度 前期",
+    "text": "2025年度 前期\n\n\n輪読\n\nAllen & Arkolakis (2025)\n\n衛星データや公害データに関する発表\n\n衛星データの発表資料(準備中)\n公害データの発表資料(準備中)\n\nデータ・サイト・論文の共有\n\n2025年度前期：共有マテリアル一覧"
+  },
+  {
+    "objectID": "activities.html#年度-後期",
+    "href": "activities.html#年度-後期",
+    "title": "活動記録",
+    "section": "2025年度 後期",
+    "text": "2025年度 後期\n\n\nゼミ研究1　継続衰退下での都市規模均衡\nゼミ研究2　公害政策と経済活動移転"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "\n山﨑ゼミとは\n",
+    "section": "",
+    "text": "山﨑ゼミとは\n\n\n山﨑ゼミは応用ミクロ経済学の実証研究を扱うゼミです\nゼミでの研究・学習の詳細や成果については活動記録や記事とノートをご覧ください\n\n\nゼミの基本情報\n\n\n\n○ 応用ミクロ実証\n\n\n○ 金曜4限\n\n\n○ 2025年度発足\n\n\n\n分野とキーワード\n\n\n\n○ 都市経済学\n\n\n○ 開発経済学\n\n\n○ 政治経済学\n\n\n○ 歴史経済学\n\n\n○ GIS\n\n\n○ 歴史データ\n\n\n\n関連リンク\n\n\n 🔗 Junichi Yamasaki (個人サイト)   🔗 歩いて学ぶ都市経済学 (Web記事)"
+  }
+]
